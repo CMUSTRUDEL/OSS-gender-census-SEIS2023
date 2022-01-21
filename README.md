@@ -88,5 +88,4 @@ We process the 15 languages that are most popular in the ghtorrent database proj
 
 
 ### Most popular names for female and male contributors on GHTorrent
-![male_name](https://user-images.githubusercontent.com/40445229/150443662-86bf54bc-d4f5-43b0-b1d4-815c599305dd.png)
-![female_name](https://user-images.githubusercontent.com/40445229/150443663-a0f748b7-e360-498e-bcb5-a641675397e1.png)
+![male_name](https://user-images.githubusercontent.com/40445229/150443662-86bf54bc-d4f5-43b0-b1d4-815c599305dd.png) ![female_name](https://user-images.githubusercontent.com/40445229/150443663-a0f748b7-e360-498e-bcb5-a641675397e1.png)
