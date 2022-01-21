@@ -41,29 +41,99 @@ We process the 15 languages that are most popular in the ghtorrent database proj
     <td><img src="https://user-images.githubusercontent.com/40445229/150443420-1f89a1e6-27ab-4e4a-84e5-eb2abf1a27f9.png"></td>
     <td><img src="https://user-images.githubusercontent.com/40445229/150443572-c97d3310-cb47-40d0-88ab-833a5aa51db2.png"></td>
   </tr>
+  <tr>
+    <td>C</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150446749-823c4b72-6d11-4420-a96d-85e3f59f3caf.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>C#</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150446752-6016f25b-fcb2-482b-bd4e-8158281db209.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>C++</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443483-dd16515b-ba9e-42cb-811e-fe36d5628c2e.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443484-357a6a12-5533-4a3f-bf9d-f04aefb2a111.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>Go</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443485-f608a302-6527-40ef-b386-6aeaa436409d.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443486-6e923268-35b0-4e37-9f10-08bc539c8b59.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443487-cd0b552b-c68d-4762-8616-f94c73ef79ea.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443488-3166f06c-707b-4ca3-8848-afc25324b0cd.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>Jupyter Notebook</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443489-4a3f432b-54f6-4b36-9b75-9dc58ece342e.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>Objective-C</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443490-612cb8d1-626f-48ad-b509-8ac2bba77309.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>PHP</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443492-21d69a94-af14-4a73-a602-5fcd419d06ae.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150447785-af87e0bc-0f24-415e-b932-7e55d4309a28.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>Ruby</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443496-ea0e220e-66ff-4fea-8429-d9353f68330d.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>Shell</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443497-3943f8a8-10a0-4b2b-9fa0-58caa5b99171.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>TypeScript</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443498-043d0f74-e62f-447a-9257-7ca724b8b27c.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
 </table>
 
-### Contributor distribution in 15 ecosystems and all
-![C_contributor](https://user-images.githubusercontent.com/40445229/150446749-823c4b72-6d11-4420-a96d-85e3f59f3caf.png)
-![All_contributor](https://user-images.githubusercontent.com/40445229/150446751-6b0de276-5c7e-471a-8efa-e59160373249.png)
-![C#_contributor](https://user-images.githubusercontent.com/40445229/150446752-6016f25b-fcb2-482b-bd4e-8158281db209.png)
-![C++_contributor](https://user-images.githubusercontent.com/40445229/150443483-dd16515b-ba9e-42cb-811e-fe36d5628c2e.png)
-![CSS_contributor](https://user-images.githubusercontent.com/40445229/150443484-357a6a12-5533-4a3f-bf9d-f04aefb2a111.png)
-![Go_contributor](https://user-images.githubusercontent.com/40445229/150443485-f608a302-6527-40ef-b386-6aeaa436409d.png)
-![HTML_contributor](https://user-images.githubusercontent.com/40445229/150443486-6e923268-35b0-4e37-9f10-08bc539c8b59.png)
-![Java_contributor](https://user-images.githubusercontent.com/40445229/150443487-cd0b552b-c68d-4762-8616-f94c73ef79ea.png)
-![JavaScript_contributor](https://user-images.githubusercontent.com/40445229/150443488-3166f06c-707b-4ca3-8848-afc25324b0cd.png)
-![Jupyter_contributor](https://user-images.githubusercontent.com/40445229/150443489-4a3f432b-54f6-4b36-9b75-9dc58ece342e.png)
-![Objective-C_contributor](https://user-images.githubusercontent.com/40445229/150443490-612cb8d1-626f-48ad-b509-8ac2bba77309.png)
-![PHP_contributor](https://user-images.githubusercontent.com/40445229/150443492-21d69a94-af14-4a73-a602-5fcd419d06ae.png)
-![Python_contributor](https://user-images.githubusercontent.com/40445229/150443494-61551009-f48c-47f8-b4b1-0754144c5452.png)
-![Ruby_contributor](https://user-images.githubusercontent.com/40445229/150443496-ea0e220e-66ff-4fea-8429-d9353f68330d.png)
-![Shell_contributor](https://user-images.githubusercontent.com/40445229/150443497-3943f8a8-10a0-4b2b-9fa0-58caa5b99171.png)
-![TypeScript_contributor](https://user-images.githubusercontent.com/40445229/150443498-043d0f74-e62f-447a-9257-7ca724b8b27c.png)
-
-
 ### Commit distribution in 15 ecosystems and all
-![All_commit](https://user-images.githubusercontent.com/40445229/150443420-1f89a1e6-27ab-4e4a-84e5-eb2abf1a27f9.png)
 ![C#_commit](https://user-images.githubusercontent.com/40445229/150443423-4d6df715-ea86-43fe-a32a-97bbd8b8358f.png)
 ![C_commit](https://user-images.githubusercontent.com/40445229/150443424-17e2a707-9556-461c-9d88-b9ddf0751e6c.png)
 ![C++_commit](https://user-images.githubusercontent.com/40445229/150443425-86fc8ffb-e243-4b63-a1d3-7f6b8c05883a.png)
@@ -82,7 +152,6 @@ We process the 15 languages that are most popular in the ghtorrent database proj
 
 
 ### Number of projects and female-participated projects in 15 ecosystems and all
-![All_project](https://user-images.githubusercontent.com/40445229/150443572-c97d3310-cb47-40d0-88ab-833a5aa51db2.png)
 ![C#_project](https://user-images.githubusercontent.com/40445229/150443574-e9c54e00-3899-4d0b-a04a-4ade734dfc68.png)
 ![C_project](https://user-images.githubusercontent.com/40445229/150443575-c93701c9-d09b-422e-828e-fc2038b14c85.png)
 ![C++_project](https://user-images.githubusercontent.com/40445229/150443576-e085fcee-51d8-4bb2-b842-84cba475fb1f.png)
