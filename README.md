@@ -28,8 +28,25 @@ We process the 15 languages that are most popular in the ghtorrent database proj
 13. `13_most_diverse_proj_owners`: find the 50 projects with the most female contributors in each ecosystem.
 
 ## Figure: Results
+<table style="width:100%">
+  <tr>
+    <th>Language</th>
+    <th>Contributor</th>
+    <th>Commit</th>
+    <th>Project Count</th>
+  </tr>
+  <tr>
+    <td>All</td>
+    <td>![All_contributor](https://user-images.githubusercontent.com/40445229/150446751-6b0de276-5c7e-471a-8efa-e59160373249.png)</td>
+    <td>![All_commit](https://user-images.githubusercontent.com/40445229/150443420-1f89a1e6-27ab-4e4a-84e5-eb2abf1a27f9.png)</td>
+    <td>![All_project](https://user-images.githubusercontent.com/40445229/150443572-c97d3310-cb47-40d0-88ab-833a5aa51db2.png)</td>
+  </tr>
+</table>
 ### Contributor distribution in 15 ecosystems and all
-![C++_contributor](https://user-images.githubusercontent.com/40445229/150443483-dd16515b-ba9e-42cb-811e-fe36d5628c2e.png, width="425")
+!![C_contributor](https://user-images.githubusercontent.com/40445229/150446749-823c4b72-6d11-4420-a96d-85e3f59f3caf.png)
+![All_contributor](https://user-images.githubusercontent.com/40445229/150446751-6b0de276-5c7e-471a-8efa-e59160373249.png)
+![C#_contributor](https://user-images.githubusercontent.com/40445229/150446752-6016f25b-fcb2-482b-bd4e-8158281db209.png)
+[C++_contributor](https://user-images.githubusercontent.com/40445229/150443483-dd16515b-ba9e-42cb-811e-fe36d5628c2e.png)
 ![CSS_contributor](https://user-images.githubusercontent.com/40445229/150443484-357a6a12-5533-4a3f-bf9d-f04aefb2a111.png)
 ![Go_contributor](https://user-images.githubusercontent.com/40445229/150443485-f608a302-6527-40ef-b386-6aeaa436409d.png)
 ![HTML_contributor](https://user-images.githubusercontent.com/40445229/150443486-6e923268-35b0-4e37-9f10-08bc539c8b59.png)
