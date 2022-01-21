@@ -29,19 +29,7 @@ We process the 15 languages that are most popular in the ghtorrent database proj
 
 ## Figure: Results
 ### Contributor distribution in 15 ecosystems and all
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/40445229/150443478-c2635d54-b12a-4b8b-94cf-a4a9f64150a2.png" width="400px;" alt=""/>
-    </td>
-    <td align="center>
-      <img src="https://user-images.githubusercontent.com/40445229/150443480-74ac52fe-d5dc-4457-8e27-18091ab937ab.png" width="400px;" alt=""/>
-      <img src="https://user-images.githubusercontent.com/40445229/150443482-255ec6d1-1b20-4e4a-a71f-6fbfe3357d45.png" width="400px;" alt=""/>
-      <img src="https://user-images.githubusercontent.com/40445229/150443483-dd16515b-ba9e-42cb-811e-fe36d5628c2e.png" width="400px;" alt=""/>
-    </td>
-  </tr>
-</table>
-![C++_contributor](https://user-images.githubusercontent.com/40445229/150443483-dd16515b-ba9e-42cb-811e-fe36d5628c2e.png)
+![C++_contributor](https://user-images.githubusercontent.com/40445229/150443483-dd16515b-ba9e-42cb-811e-fe36d5628c2e.png, width="425")
 ![CSS_contributor](https://user-images.githubusercontent.com/40445229/150443484-357a6a12-5533-4a3f-bf9d-f04aefb2a111.png)
 ![Go_contributor](https://user-images.githubusercontent.com/40445229/150443485-f608a302-6527-40ef-b386-6aeaa436409d.png)
 ![HTML_contributor](https://user-images.githubusercontent.com/40445229/150443486-6e923268-35b0-4e37-9f10-08bc539c8b59.png)
