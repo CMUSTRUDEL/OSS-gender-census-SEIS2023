@@ -110,7 +110,7 @@ We process the 15 languages that are most popular in the ghtorrent database proj
   <tr>
     <td>Python</td>
     <td><img src="https://user-images.githubusercontent.com/40445229/150447785-af87e0bc-0f24-415e-b932-7e55d4309a28.png"></td>
-    <td><img src="">https://user-images.githubusercontent.com/40445229/150443439-704f0b6d-a7ef-4338-9f68-7f136f95eb58.png</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443439-704f0b6d-a7ef-4338-9f68-7f136f95eb58.png"></td>
     <td><img src="https://user-images.githubusercontent.com/40445229/150443588-f8c3abee-9823-49f2-aa4b-13d5f5c2b93c.png"></td>
   </tr>
   <tr>
@@ -129,7 +129,7 @@ We process the 15 languages that are most popular in the ghtorrent database proj
     <td>TypeScript</td>
     <td><img src="https://user-images.githubusercontent.com/40445229/150443498-043d0f74-e62f-447a-9257-7ca724b8b27c.png"></td>
     <td><img src="https://user-images.githubusercontent.com/40445229/150443443-02aa76a1-7d7f-44df-add9-08bfb350279d.png"></td>
-    <td><img src="">https://user-images.githubusercontent.com/40445229/150443592-f691cd6b-825d-4401-abf1-d108d60dc7b7.png</td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443592-f691cd6b-825d-4401-abf1-d108d60dc7b7.png"></td>
   </tr>
 </table>
 
