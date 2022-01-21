@@ -29,6 +29,14 @@ We process the 15 languages that are most popular in the ghtorrent database proj
 
 ## Figure: Results
 ### Contributor distribution in 15 ecosystems and all
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/40445229/150443478-c2635d54-b12a-4b8b-94cf-a4a9f64150a2.png" width="200px;" alt=""/>
+      <img src="https://user-images.githubusercontent.com/40445229/150443480-74ac52fe-d5dc-4457-8e27-18091ab937ab.png" width="200px;" alt=""/>
+    </td>
+  </tr>
+</table>
 ![All_contributor](https://user-images.githubusercontent.com/40445229/150443478-c2635d54-b12a-4b8b-94cf-a4a9f64150a2.png)
 ![C#_contributor](https://user-images.githubusercontent.com/40445229/150443480-74ac52fe-d5dc-4457-8e27-18091ab937ab.png)
 ![C_contributor](https://user-images.githubusercontent.com/40445229/150443482-255ec6d1-1b20-4e4a-a71f-6fbfe3357d45.png)
@@ -88,4 +96,4 @@ We process the 15 languages that are most popular in the ghtorrent database proj
 
 
 ### Most popular names for female and male contributors on GHTorrent
-| ![male_name](https://user-images.githubusercontent.com/40445229/150443662-86bf54bc-d4f5-43b0-b1d4-815c599305dd.png) | ![female_name](https://user-images.githubusercontent.com/40445229/150443663-a0f748b7-e360-498e-bcb5-a641675397e1.png) |
+![male_name](https://user-images.githubusercontent.com/40445229/150443662-86bf54bc-d4f5-43b0-b1d4-815c599305dd.png)![female_name](https://user-images.githubusercontent.com/40445229/150443663-a0f748b7-e360-498e-bcb5-a641675397e1.png)
