@@ -37,9 +37,9 @@ We process the 15 languages that are most popular in the ghtorrent database proj
   </tr>
   <tr>
     <td>All</td>
-    <img src="https://user-images.githubusercontent.com/40445229/150446751-6b0de276-5c7e-471a-8efa-e59160373249.png">
-    <img src="https://user-images.githubusercontent.com/40445229/150443420-1f89a1e6-27ab-4e4a-84e5-eb2abf1a27f9.png">
-    <img src="https://user-images.githubusercontent.com/40445229/150443572-c97d3310-cb47-40d0-88ab-833a5aa51db2.png">
+    <td><img src="https://user-images.githubusercontent.com/40445229/150446751-6b0de276-5c7e-471a-8efa-e59160373249.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443420-1f89a1e6-27ab-4e4a-84e5-eb2abf1a27f9.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/40445229/150443572-c97d3310-cb47-40d0-88ab-833a5aa51db2.png"></td>
   </tr>
 </table>
 
