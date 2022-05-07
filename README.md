@@ -1,110 +1,154 @@
 # MSR2022-Census
 Code and figures of MSR 2022 submission
 
-
 ## Figure: Results
 <table style="width:100%">
   <tr>
-    <th>Language</th>
-    <th>Contributor</th>
-    <th>Commit</th>
-    <th>Project Count</th>
+    <th>Ecosystem</th>
+    <th>Contributor Line Graph</th>
+    <th>Contributor Bar Graph</th>
+    <th>Commit Line Graph</th>
+    <th>Commit Bar Graph</th>
   </tr>
   <tr>
     <td>All</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150446751-6b0de276-5c7e-471a-8efa-e59160373249.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443420-1f89a1e6-27ab-4e4a-84e5-eb2abf1a27f9.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443572-c97d3310-cb47-40d0-88ab-833a5aa51db2.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/All_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/All_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/All_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/All_commit.png"></td>
   </tr>
   <tr>
-    <td>C</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150446749-823c4b72-6d11-4420-a96d-85e3f59f3caf.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443424-17e2a707-9556-461c-9d88-b9ddf0751e6c.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443575-c93701c9-d09b-422e-828e-fc2038b14c85.png"></td>
+    <td>Atom</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/Atom_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/Atom_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/Atom_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/Atom_commit.png"></td>
   </tr>
   <tr>
-    <td>C#</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150446752-6016f25b-fcb2-482b-bd4e-8158281db209.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443423-4d6df715-ea86-43fe-a32a-97bbd8b8358f.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443574-e9c54e00-3899-4d0b-a04a-4ade734dfc68.png"></td>
+   <td>Bower</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/Bower_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/Bower_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/Bower_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/Bower_commit.png"></td>
   </tr>
   <tr>
-    <td>C++</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443483-dd16515b-ba9e-42cb-811e-fe36d5628c2e.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443425-86fc8ffb-e243-4b63-a1d3-7f6b8c05883a.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443576-e085fcee-51d8-4bb2-b842-84cba475fb1f.png"></td>
+    <td>Cargo</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/Cargo_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/Cargo_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/Cargo_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/Cargo_commit.png"></td>
   </tr>
   <tr>
-    <td>CSS</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443484-357a6a12-5533-4a3f-bf9d-f04aefb2a111.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443426-2143033a-1140-4bd7-90b6-8fe6631a682f.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443577-f1e1bdb3-f47f-4ec7-ba6e-26cec48c017b.png"></td>
+    <td>Clojars</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/Clojars_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/Clojars_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/Clojars_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/Clojars_commit.png"></td>
+  </tr>
+  <tr>
+    <td>CocoaPods</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/CocoaPods_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/CocoaPods_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/CocoaPods_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/CocoaPods_commit.png"></td>
+  </tr>
+  <tr>
+    <td>CPAN</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/CPAN_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/CPAN_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/CPAN_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/CPAN_commit.png"></td>
+  </tr>
+  <tr>
+    <td>CRAN</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/CRAN_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/CRAN_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/CRAN_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/CRAN_commit.png"></td>
   </tr>
   <tr>
     <td>Go</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443485-f608a302-6527-40ef-b386-6aeaa436409d.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443428-8994c362-27ea-49a7-9aae-9dfbf136c4a9.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443578-83f18482-17f8-4d10-9524-b2d5168c8cbb.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/Go_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/Go_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/Go_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/Go_commit.png"></td>
   </tr>
   <tr>
-    <td>HTML</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443486-6e923268-35b0-4e37-9f10-08bc539c8b59.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443429-076f8da6-a6a4-4c69-b4a0-5c08706d9a69.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443580-0a501cf0-846a-4e0d-8e87-dd25afc2bebd.png"></td>
+    <td>Hackage</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/Hackage_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/Hackage_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/Hackage_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/Hackage_commit.png"></td>
   </tr>
   <tr>
-    <td>Java</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443487-cd0b552b-c68d-4762-8616-f94c73ef79ea.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443431-434c485c-b915-4c47-9a6a-870dbb14cf7f.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443581-c4c18896-ed32-436f-ba93-c26c685235d4.png"></td>
+    <td>Hex</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/Hex_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/Hex_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/Hex_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/Hex_commit.png"></td>
   </tr>
   <tr>
-    <td>JavaScript</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443488-3166f06c-707b-4ca3-8848-afc25324b0cd.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443433-fee8de4f-f3d3-4122-a9ad-b0ef5c636850.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443583-1419aa0b-2770-4801-b46b-8284cbc100c3.png"></td>
+    <td>Maven</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/Maven_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/Maven_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/Maven_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/Maven_commit.png"></td>
   </tr>
   <tr>
-    <td>Jupyter Notebook</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443489-4a3f432b-54f6-4b36-9b75-9dc58ece342e.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443435-0adf45af-a03d-4c9b-ac68-513885762760.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443584-ee772a1c-1123-4275-b20d-0112b4b6bb8f.png"></td>
+   <td>Meteor</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/Meteor_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/Meteor_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/Meteor_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/Meteor_commit.png"></td>
   </tr>
   <tr>
-    <td>Objective-C</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443490-612cb8d1-626f-48ad-b509-8ac2bba77309.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443437-d7d2b35a-41a2-4b54-a0b2-891ce912b2f0.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443586-f95e0b6b-d922-4523-8b77-e08392649e42.png"></td>
+   <td>NPM</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/NPM_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/NPM_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/NPM_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/NPM_commit.png"></td>
   </tr>
   <tr>
-    <td>PHP</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443492-21d69a94-af14-4a73-a602-5fcd419d06ae.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443438-0a311984-875c-4853-a2d2-4decd7eecd81.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443587-db84aa03-28be-44d8-a8c6-d21ed9e0c2e2.png"></td>
+    <td>NuGet</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/NuGet_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/NuGet_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/NuGet_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/NuGet_commit.png"></td>
   </tr>
   <tr>
-    <td>Python</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150447785-af87e0bc-0f24-415e-b932-7e55d4309a28.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443439-704f0b6d-a7ef-4338-9f68-7f136f95eb58.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443588-f8c3abee-9823-49f2-aa4b-13d5f5c2b93c.png"></td>
+    <td>Packagist</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/Packagist_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/Packagist_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/Packagist_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/Packagist_commit.png"></td>
   </tr>
   <tr>
-    <td>Ruby</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443496-ea0e220e-66ff-4fea-8429-d9353f68330d.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443441-54aad43b-25a7-4ee8-a657-b584bbb6fffe.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443589-c497e24c-c46b-41c7-a516-e7e984011c78.png"></td>
+    <td>PlatformIO</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/PlatformIO_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/PlatformIO_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/PlatformIO_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/PlatformIO_commit.png"></td>
   </tr>
   <tr>
-    <td>Shell</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443497-3943f8a8-10a0-4b2b-9fa0-58caa5b99171.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443442-7bfb0e19-7082-4e71-bac4-171d8627002f.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443591-68cd7d73-1075-4c78-b7a1-138e2c954e0b.png"></td>
+    <td>Pub</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/Pub_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/Pub_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/Pub_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/Pub_commit.png"></td>
   </tr>
   <tr>
-    <td>TypeScript</td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443498-043d0f74-e62f-447a-9257-7ca724b8b27c.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443443-02aa76a1-7d7f-44df-add9-08bfb350279d.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/40445229/150443592-f691cd6b-825d-4401-abf1-d108d60dc7b7.png"></td>
+    <td>Pypi</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/Pypi_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/Pypi_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/Pypi_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/Pypi_commit.png"></td>
+  </tr>
+  <tr>
+    <td>Rubygems</td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/01_contributor_line/Rubygems_contributor.png"></td>
+     <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/02_contributor_bar/Rubygems_contributor.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/03_commit_line/Rubygems_commit.png"></td>
+    <td><img src="https://github.com/wingardium-leviosa/ESEM2022-Census/blob/main/census_graphs/04_commit_bar/Rubygems_commit.png"></td>
   </tr>
 </table>
 
