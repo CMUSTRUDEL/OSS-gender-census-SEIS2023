@@ -181,21 +181,29 @@ Under census/public/gender_inference.
 
 ### Census Data
 Under census/public.
-We process the projects from the 20 OSS ecosystems according to libraries.io and the projects written in the 15 most popular in the ghtorrent projects table. Ranking by size, the 20 ecosystems are NPM, Packagist, Go, Pypi, Rubygems, NuGet, Maven, Bower, CocoaPods, Cargo, Clojars, Atom, CPAN, Meteor, Hackage, Hex, Pub, CRAN, Puppet, PlatformIO. Ranking by size, the 15 languages are 1) JavaScript, 2) Java, 3) Python, 4) HTML, 5) Ruby, 6) PHP, 7) C++, 8) CSS, 9) C, 10) C#, 11) Jupyter Notebook, 12) Shell, 13) TypeScript, 14) Go, 15) Objective-C. For all the following scripts, we group the results by project language in the project table.
-00_get_proj_lst_from_lio: find all projects' id in ghtorrent through their entries in libraries.io database. Use sql to identify the 20 most popular ecosystems.
-01_get_proj_lst_from_ght: use sql to identify the 15 most popular languages. Get project_id of all projects written in one of the 15 specified language.
-02_get_comits_for_proj : get the commits for each project in the lists from step 1. Each project has a csv file containing author id, window of commit, author name, author email, and whether is fake. All projects have at least 1 valid commits, aka made by users with valid login and name (filtered out users that can't be found in users_private and type ORG in users).
-03_find_possible_bots_in_commits: find the people who made made at least 1000 commits in a window, and then manually inspect the output to get a bot list. `bot_names.list` contains manually inspect bot list. Retrieved by `get_bots_in_commits.py`. Part of the results are retrieved from project https://github.com/CMUSTRUDEL/new_female_contrs_CSCW. The executions of all files below can be interrupted and resumed without loss of output data.
-04_get_alias_dict_for_repo: get all dictionaries for projects that have authors that can be merged. alias_merge.py contains a helper function, and alias defines an Alias object which is used in alias_merge.py.
-05_clean_author_for_commits: merge alias and label bots, using results from running 4 and 5. Filter out projects with less than 3 contributors (before merging) for public projects (projects extracted through 01_get_proj_lst_from_ght).
-06_clean_proj_lst: make the proj list more concise. Improves coding efficiency.
-07_build_contrib_dict: find core contributors for each project for each window. For each language, for each project, build dictionary in the format of {win:{uid:[isCore, gender, #commits]}}. 
-08_contrib_info: find each contributor's first and last commit window in each ecosystem. These results are used for survival analysis, the complete code of which is under census/public/survival.
-09_contrib_gender_by_win: get by window by gender contributor counts for all and core contributors.
-10_commit_gender_by_win: get by window by gender commit counts.
-11_proj_count_by_gender: get by window number of active projects and active female-participated projects.
-12_homophily_tie_by_gender: calculate homophily tie between female and male.
-13_most_diverse_proj_owners: find the 50 projects with the most female contributors in each ecosystem.
 
-### Visualization
-Under census/public/visualization.
+We process the projects from the 20 OSS ecosystems according to libraries.io and the projects written in the 15 most popular in the ghtorrent projects table. Ranking by size, the 20 ecosystems are NPM, Packagist, Go, Pypi, Rubygems, NuGet, Maven, Bower, CocoaPods, Cargo, Clojars, Atom, CPAN, Meteor, Hackage, Hex, Pub, CRAN, Puppet, PlatformIO. Ranking by size, the 15 languages are 1) JavaScript, 2) Java, 3) Python, 4) HTML, 5) Ruby, 6) PHP, 7) C++, 8) CSS, 9) C, 10) C#, 11) Jupyter Notebook, 12) Shell, 13) TypeScript, 14) Go, 15) Objective-C. For all the following scripts, we group the results by project language in the project table.
+
+00_get_proj_lst_from_lio: find all projects' id in ghtorrent through their entries in libraries.io database. Use sql to identify the 20 most popular ecosystems.
+
+01_get_proj_lst_from_ght: use sql to identify the 15 most popular languages. Get project_id of all projects written in one of the 15 specified language.
+
+02_get_comits_for_proj : get the commits for each project in the lists from step 1. Each project has a csv file containing author id, window of commit, author name, author email, and whether is fake. All projects have at least 1 valid commits, aka made by users with valid login and name (filtered out users that can't be found in users_private and type ORG in users).
+
+03_find_possible_bots_in_commits: find the people who made made at least 1000 commits in a window, and then manually inspect the output to get a bot list. `bot_names.list` contains manually inspect bot list. Retrieved by `get_bots_in_commits.py`. Part of the results are retrieved from project https://github.com/CMUSTRUDEL/new_female_contrs_CSCW. The executions of all files below can be interrupted and resumed without loss of output data.
+
+04_get_alias_dict_for_repo: get all dictionaries for projects that have authors that can be merged. alias_merge.py contains a helper function, and alias defines an Alias object which is used in alias_merge.py.
+
+05_clean_author_for_commits: merge alias and label bots, using results from running 4 and 5. Filter out projects with less than 3 contributors (before merging) for public projects (projects extracted through 01_get_proj_lst_from_ght).
+
+06_clean_proj_lst: make the proj list more concise. Improves coding efficiency.
+
+07_build_contrib_dict: find core contributors for each project for each window. For each language, for each project, build dictionary in the format of {win:{uid:[isCore, gender, #commits]}}. 
+
+08_contrib_info: find each contributor's first and last commit window in each ecosystem. These results are used for survival analysis, the complete code of which is under census/public/survival.
+
+09_contrib_gender_by_win: get by window by gender contributor counts for all and core contributors.
+
+10_commit_gender_by_win: get by window by gender commit counts.
+
+11_proj_count_by_gender: get by window number of active projects and active female-participated projects.
