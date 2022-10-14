@@ -1,5 +1,5 @@
-# ESEM2022-Census
-Code and figures of ESEM 2022 submission
+# SEIS2022-Census
+Code and figures of SEIS 2022 submission
 
 ## Figure: Results
 <table style="width:100%">
