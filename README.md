@@ -190,7 +190,7 @@ We process the projects from the 20 OSS ecosystems according to libraries.io and
 
 02_get_comits_for_proj : get the commits for each project in the lists from step 1. Each project has a csv file containing author id, window of commit, author name, author email, and whether is fake. All projects have at least 1 valid commits, aka made by users with valid login and name (filtered out users that can't be found in users_private and type ORG in users).
 
-03_find_possible_bots_in_commits: find the people who made made at least 1000 commits in a window, and then manually inspect the output to get a bot list. `bot_names.list` contains manually inspect bot list. Retrieved by `get_bots_in_commits.py`. Part of the results are retrieved from project https://github.com/CMUSTRUDEL/new_female_contrs_CSCW. The executions of all files below can be interrupted and resumed without loss of output data.
+03_find_possible_bots_in_commits: find the people who made made at least 1000 commits in a window, and then manually inspect the output to get a bot list. `bot_names.list` contains manually inspect bot list. Retrieved by `get_bots_in_commits.py`.
 
 04_get_alias_dict_for_repo: get all dictionaries for projects that have authors that can be merged. alias_merge.py contains a helper function, and alias defines an Alias object which is used in alias_merge.py.
 
